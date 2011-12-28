@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.0.13</version>
+    <authors>Ray Kwon</authors>
+    <owners>Ray Kwon</owners>
+    <licenseUrl>https://github.com/RayKwon/DotNetRoo</licenseUrl>
+    <projectUrl>https://github.com/RayKwon/DotNetRoo</projectUrl>
+    <iconUrl>https://github.com/RayKwon/DotNetRoo</iconUrl>
+    <id>DotNetRoo</id>
+    <title>DotNetRoo</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Source Generator inspired by Spring Roo. Do not use this library yet, it is just incubated</description>
+    <releaseNotes>Do not use this library yet, it is just incubated</releaseNotes>
+    <copyright>Copyright 2011</copyright>
+  </metadata>
+  <files>
+    <file src="..\..\..\..\AppData\Local\Temp\3b826da3-04af-4ea1-b3b0-3058674582fe\AppConfig.Template.config.t4" target="content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\AppConfig.Template.cs.t4" />
+    <file src="..\DotNetRoo.0.0.8\content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.ps1" target="content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.ps1" />
+    <file src="..\DotNetRoo.0.0.8\content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.Template.cs.t4" target="content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.Template.cs.t4" />
+    <file src="..\DotNetRoo.0.0.8\lib\net40\DotNetRoo.dll" target="lib\net40\DotNetRoo.dll" />
+    <file src="..\..\..\..\AppData\Local\Temp\899cfa36-006a-470d-8e25-1bcb2acdc2a8\init.ps1" target="tools\init.ps1" />
+    <file src="..\..\..\..\AppData\Local\Temp\52f853b1-6ca9-4dd0-ba65-9765c2ce9d28\install.ps1" target="tools\install.ps1" />
+  </files>
+</package>

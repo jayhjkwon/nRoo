@@ -7,8 +7,8 @@ param(
 )
 
 #Add T4Scaffolding
-#Write-Host Installing : T4Scaffolding
-#Install-Package T4Scaffolding
+Write-Host Installing : T4Scaffolding
+Install-Package T4Scaffolding
 
 #Add Castle ActiveRecord Library from Nuget
 Write-Host Installing : EntityFramework
