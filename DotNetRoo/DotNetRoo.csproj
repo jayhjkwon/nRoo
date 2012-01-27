@@ -53,6 +53,8 @@
     <None Include="CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.ps1" />
     <None Include="CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecordTemplate.cs.t4" />
     <None Include="DotNetRoo.nuspec" />
+    <None Include="init.ps1" />
+    <None Include="install.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

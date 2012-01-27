@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <version>0.0.24</version>
+    <version>0.0.25</version>
     <authors>Ray Kwon</authors>
     <owners />
     <id>DotNetRoo</id>
@@ -14,7 +14,7 @@
     <file src="CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\AppConfig.Template.cs.t4" target="content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\AppConfig.Template.cs.t4" />
     <file src="CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.ps1" target="content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.ps1" />
     <file src="CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecordTemplate.cs.t4" target="content\CodeTemplates\Scaffolders\DotNetRoo.ActiveRecord\DotNetRoo.ActiveRecord.Template.cs.t4" />
-    <file src="C:\Users\305024278\AppData\Local\Temp\2c3b9cbb-8a7d-414b-b038-3070bc398803\init.ps1" target="tools\init.ps1" />
-    <file src="C:\Users\305024278\AppData\Local\Temp\0730def9-a7ad-4607-a1bc-3d1297d0e905\install.ps1" target="tools\install.ps1" />
+    <file src="init.ps1" target="tools\init.ps1" />
+    <file src="install.ps1" target="tools\install.ps1" />
   </files>
 </package>
