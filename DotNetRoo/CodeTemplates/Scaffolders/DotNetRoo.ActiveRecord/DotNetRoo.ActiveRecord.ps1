@@ -12,11 +12,11 @@ param(
 
 #Add Castle ActiveRecord Library from Nuget
 Write-Host Installing : EntityFramework
-Install-Package Castle.Activerecord
+Install-Package Castle.Activerecord -Project $Project
 
 #Add SQLite Driver
 #Install-Package System.Data.SQLite.x64
-Install-Package SQLitex64
+Install-Package SQLitex64  -Project $Project
 
 #Add Program.cs with sample code
 $outputPath = "Program"  # The filename extension will be added based on the template's <#@ Output Extension="..." #> directive

@@ -5,8 +5,6 @@ C:\Users\KHJ\RayGitRepository\DotNetRoo\DotNetRoo\obj\Debug\DotNetRoo.dll
 C:\Users\KHJ\RayGitRepository\DotNetRoo\DotNetRoo\obj\Debug\DotNetRoo.pdb
 D:\GitRepositories\DotNetRoo\DotNetRoo\bin\Debug\DotNetRoo.dll
 D:\GitRepositories\DotNetRoo\DotNetRoo\bin\Debug\DotNetRoo.pdb
-D:\GitRepositories\DotNetRoo\DotNetRoo\bin\Debug\EntityFramework.dll
-D:\GitRepositories\DotNetRoo\DotNetRoo\bin\Debug\EntityFramework.xml
 D:\GitRepositories\DotNetRoo\DotNetRoo\obj\Debug\ResolveAssemblyReference.cache
 D:\GitRepositories\DotNetRoo\DotNetRoo\obj\Debug\DotNetRoo.dll
 D:\GitRepositories\DotNetRoo\DotNetRoo\obj\Debug\DotNetRoo.pdb
