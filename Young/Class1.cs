@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DotNetRoo
+namespace Young
 {
     public class Class1
     {
