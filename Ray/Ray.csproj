@@ -42,6 +42,18 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="CodeTemplates\Scaffolders\Ioc\Ioc.ps1" />
+    <None Include="CodeTemplates\Scaffolders\Ioc\IocTemplate.cs.t4" />
+    <None Include="CodeTemplates\Scaffolders\Logging\Logging.ps1" />
+    <None Include="CodeTemplates\Scaffolders\Logging\LoggingTemplate.cs.t4" />
+    <None Include="CodeTemplates\Scaffolders\Persistence\Persistence.ps1" />
+    <None Include="CodeTemplates\Scaffolders\Persistence\PersistenceTemplate.cs.t4" />
+    <None Include="CodeTemplates\Scaffolders\Test\Test.ps1" />
+    <None Include="CodeTemplates\Scaffolders\Test\TestTemplate.cs.t4" />
+    <None Include="CodeTemplates\Scaffolders\Web\Web.ps1" />
+    <None Include="CodeTemplates\Scaffolders\Web\WebTemplate.cs.t4" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
